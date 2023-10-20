@@ -1,37 +1,20 @@
 {
   "sites": [
-    {
-      "key": "csp_Kunyu77",
-      "name": "👒酷18",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "❤91麻豆",
-      "name": "❤91麻豆源",
-      "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+    
     {
       "key": "❤丝袜资源",
       "name": "❤丝袜资源",
       "type": 1,
-      "api": "https://siwazyw.cc/api.php/provide/vod/",
+      "api": "https://haiwai.siwazyw.org/api.php/provide/vod",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
     {
-      "key": "❤秀色资源",
-      "name": "❤秀色资源",
+      "key": "❤秀色猫资源",
+      "name": "❤秀色猫资源",
       "type": 1,
-      "api": "https://api.xiuseapi.com/api.php/provide/vod/",
+      "api": "https://caiji.semaozy.net/inc/api.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -67,7 +50,7 @@
       "key": "❤葡萄资源",
       "name": "❤葡萄资源",
       "type": 1,
-      "api": "https://api.putaozy.net/inc/apijson_vod.php",
+      "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -82,82 +65,82 @@
       "filterable": 0
     },
     {
-      "key": "❤淫窝资源",
-      "name": "❤淫窝资源",
+      "key": "❤黄色资源站",
+      "name": "❤黄色资源站",
       "type": 1,
-      "api": "https://api.yinwoapi.com/api.php/provide/vod/",
+      "api": "http://hszy.vip/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
     {
-      "key": "❤SB资源",
-      "name": "❤SB资源",
+      "key": "❤老色逼视频资源",
+      "name": "❤老色逼视频资源",
       "type": 0,
-      "api": "http://www.shabizy.com:777/inc/sea",
+      "api": "https://apilsbzy1.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
     {
-      "key": "❤色屌丝资源",
-      "name": "❤色屌丝资源",
+      "key": "❤花魁资源",
+      "name": "❤花魁资源",
       "type": 0,
-      "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml",
+      "api": "https://caiji.huakuiapi.com/inc/api.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
     {
-      "key": "❤小姐姐资源",
-      "name": "❤小姐姐资源",
+      "key": "❤草榴资源网综合资源",
+      "name": "❤草榴资源网综合资源",
       "type": 0,
-      "api": "https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
+      "api": "https://www.caoliuzyw.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
     {
-      "key": "❤52AVAV",
-      "name": "❤52AVAV",
+      "key": "❤玉兔资源 ",
+      "name": "❤玉兔资源 ",
       "type": 0,
-      "api": "https://52zyapi.com/home/cjapi/asda/mc10/vod/xml",
+      "api": "https://apiyutu.com/api.php/provide/vod/at/xml/",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
     {
-      "key": "❤我要啪啪",
-      "name": "❤我要啪啪",
+      "key": "❤老鸭资源",
+      "name": "❤老鸭资源",
       "type": 0,
-      "api": "http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml",
+      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
     {
-      "key": "❤AV集中淫",
-      "name": "❤AV集中淫",
+      "key": "❤红袖资源",
+      "name": "❤红袖资源",
       "type": 0,
-      "api": "https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml",
+      "api": "https://hongxiuzy.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
     {
-      "key": "❤夜夜撸资源",
-      "name": "❤夜夜撸资源",
+      "key": "❤开云资源",
+      "name": "❤开云资源",
       "type": 0,
-      "api": "https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml",
+      "api": "https://caiji.kaiyunzy.net/inc/api.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
     {
-      "key": "❤大屌丝资源",
-      "name": "❤大屌丝资源",
+      "key": "❤森林资源",
+      "name": "❤森林资源",
       "type": 0,
-      "api": "http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml",
+      "api": "https://slapibf.com/api.php/provide/vod/at/xml/",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
