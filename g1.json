@@ -2,11 +2,9 @@
 
 {"storeHouse": 
 [ 
-{"sourceName":"自己专用单仓","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用单仓" }, 
-{"sourceName":"放学回家单仓","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/CTTBOX/main/dcpro608.json" }, 
-{"sourceName":"云星在线单仓","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
-{"sourceName":"业余奇奇单仓","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json"},
-{"sourceName":"业余日后单仓","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json"},
+{"sourceName":"放学回家单仓","sourceUrl":"https://gh-proxy.gwming.com.cn/https://raw.githubusercontent.com/jigedos/CTTBOX/main/dcpro608.json" }, 
+{"sourceName":"业余奇奇单仓","sourceUrl":"https://gh-proxy.gwming.com.cn/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json"},
+{"sourceName":"业余日后单仓","sourceUrl":"https://gh-proxy.gwming.com.cn/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json"},
 //{"sourceName":"多多聚合多仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/fast.json"},
 {"sourceName":"多多优选单仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
 {"sourceName":"多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/b.txt"},
