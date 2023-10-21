@@ -1,4 +1,0 @@
-- name: actions-android-ci
-  # You may pin to the exact commit or the version.
-  # uses: xdtianyu/actions-android-ci@8e1bc2c6eef01bcfd824652b7ffe410b1d1d2032
-  uses: xdtianyu/actions-android-ci@v1.3.0
